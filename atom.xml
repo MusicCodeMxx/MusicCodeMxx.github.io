@@ -1,14 +1,27 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>MaDes</title>
+    <title>Guitar</title>
     <subtitle></subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
-      <name>John Doe</name>
+      <name>MaDes</name>
     </author>
-    <updated>2022-08-30T14:57:26.887Z</updated>
+    <updated>2022-08-31T06:52:42.000Z</updated>
+    <category term="Guitar" />
+    <entry>
+        <id>http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/</id>
+        <title>未闻花名</title>
+        <link rel="alternate" href="http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/"/>
+        <content type="html">&lt;p&gt;未闻花名&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;如下&lt;/p&gt;
+</content>
+        <category term="guitar" scheme="http://example.com/categories/guitar/" />
+        <category term="指弹" scheme="http://example.com/tags/%E6%8C%87%E5%BC%B9/" />
+        <updated>2022-08-31T06:52:42.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2022/08/30/hello-world/</id>
         <title>Hello World</title>
@@ -22,8 +35,9 @@
 &lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
-</content>
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="入门" scheme="http://example.com/tags/%E5%85%A5%E9%97%A8/" />
         <updated>2022-08-30T14:57:26.887Z</updated>
     </entry>
 </feed>
