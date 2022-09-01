@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Guitar • Posts by &#34;1星&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2022-09-01T07:12:29.000Z</updated>
+    <category term="指弹" />
+    <category term="入门" />
+    <category term="1星" />
+    <category term="2星" />
+    <category term="指弹谱" />
+    <entry>
+        <id>http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/</id>
+        <title>一直很安静</title>
+        <link rel="alternate" href="http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/"/>
+        <content type="html">&lt;p&gt;曲谱专栏【一直很安静】治愈系指弹&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;5.webp&#34; alt=&#34;5&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;6.webp&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;演奏视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW41NDExMzdDVA==&#34;&gt;https://www.bilibili.com/video/BV1n541137CT&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;教学视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTFvNHkxMjdWbg==&#34;&gt;https://www.bilibili.com/video/BV11o4y127Vn&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="指弹" />
+        <category term="1星" />
+        <updated>2022-09-01T07:12:29.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/</id>
+        <title>少年的梦</title>
+        <link rel="alternate" href="http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/"/>
+        <content type="html">&lt;p&gt;指弹曲：少年的梦&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="指弹" />
+        <category term="1星" />
+        <updated>2022-08-31T08:30:19.000Z</updated>
+    </entry>
+</feed>

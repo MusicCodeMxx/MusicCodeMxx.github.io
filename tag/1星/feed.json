@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Guitar • All posts by \"1星\" tag",
+    "description": "play Guitar",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/",
+            "url": "http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/",
+            "title": "一直很安静",
+            "date_published": "2022-09-01T07:12:29.000Z",
+            "content_html": "<p>曲谱专栏【一直很安静】治愈系指弹</p>\n<h2 id=\"指弹谱\"><a class=\"anchor\" href=\"#指弹谱\">#</a> 指弹谱</h2>\n<p><img data-src=\"1.webp\" alt=\"1\"></p>\n<p><img data-src=\"2.webp\" alt=\"2\"></p>\n<p><img data-src=\"3.webp\" alt=\"3\"></p>\n<p><img data-src=\"4.webp\" alt=\"4\"></p>\n<p><img data-src=\"5.webp\" alt=\"5\"></p>\n<p><img data-src=\"6.webp\" alt=\"6\"></p>\n<p>演奏视频：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW41NDExMzdDVA==\">https://www.bilibili.com/video/BV1n541137CT</span></p>\n<p>教学视频：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMTFvNHkxMjdWbg==\">https://www.bilibili.com/video/BV11o4y127Vn</span></p>\n",
+            "tags": [
+                "指弹",
+                "1星"
+            ]
+        },
+        {
+            "id": "http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/",
+            "url": "http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/",
+            "title": "少年的梦",
+            "date_published": "2022-08-31T08:30:19.000Z",
+            "content_html": "<p>指弹曲：少年的梦</p>\n<h2 id=\"指弹谱\"><a class=\"anchor\" href=\"#指弹谱\">#</a> 指弹谱</h2>\n<p><img data-src=\"1.jpg\" alt=\"1\"></p>\n<p><img data-src=\"2.jpg\" alt=\"2\"></p>\n<p><img data-src=\"3.jpg\" alt=\"3\"></p>\n",
+            "tags": [
+                "指弹",
+                "1星"
+            ]
+        }
+    ]
+}
