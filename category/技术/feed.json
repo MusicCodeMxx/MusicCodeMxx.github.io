@@ -1,29 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Guitar",
+    "title": "Guitar • All posts by \"技术\" category",
     "description": "play Guitar",
     "home_page_url": "http://example.com",
     "items": [
-        {
-            "id": "http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/",
-            "url": "http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/",
-            "title": "少年的梦",
-            "date_published": "2022-08-31T08:30:19.000Z",
-            "content_html": "<p>指弹曲：少年的梦</p>\n<h2 id=\"指弹谱\"><a class=\"anchor\" href=\"#指弹谱\">#</a> 指弹谱</h2>\n<p><img data-src=\"1.jpg\" alt=\"1\"></p>\n<p><img data-src=\"2.jpg\" alt=\"2\"></p>\n<p><img data-src=\"3.jpg\" alt=\"3\"></p>\n",
-            "tags": [
-                "指弹"
-            ]
-        },
-        {
-            "id": "http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/",
-            "url": "http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/",
-            "title": "未闻花名",
-            "date_published": "2022-08-31T06:52:42.000Z",
-            "content_html": "<p>已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫 —— 勿忘我</p>\n<h2 id=\"指弹谱\"><a class=\"anchor\" href=\"#指弹谱\">#</a> 指弹谱</h2>\n<p><img data-src=\"1.jpg\" alt=\"1\"></p>\n<p><img data-src=\"6.jpg\" alt=\"6\"></p>\n<p><img data-src=\"3.jpg\" alt=\"3\"></p>\n<p><img data-src=\"2.jpg\" alt=\"2\"></p>\n<p><img data-src=\"4.jpg\" alt=\"4\"></p>\n<p><img data-src=\"5.jpg\" alt=\"5\"></p>\n",
-            "tags": [
-                "指弹"
-            ]
-        },
         {
             "id": "http://example.com/2022/08/30/hello-world/",
             "url": "http://example.com/2022/08/30/hello-world/",

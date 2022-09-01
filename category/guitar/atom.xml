@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Guitar • Posts by &#34;guitar&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2022-08-31T08:30:19.000Z</updated>
+    <category term="指弹" />
+    <category term="入门" />
+    <entry>
+        <id>http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/</id>
+        <title>少年的梦</title>
+        <link rel="alternate" href="http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/"/>
+        <content type="html">&lt;p&gt;指弹曲：少年的梦&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="指弹" />
+        <updated>2022-08-31T08:30:19.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/</id>
+        <title>未闻花名</title>
+        <link rel="alternate" href="http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/"/>
+        <content type="html">&lt;p&gt;已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫 —— 勿忘我&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;6.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;5.jpg&#34; alt=&#34;5&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="指弹" />
+        <updated>2022-08-31T06:52:42.000Z</updated>
+    </entry>
+</feed>
