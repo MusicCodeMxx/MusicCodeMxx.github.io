@@ -3,12 +3,30 @@
     <id>http://example.com</id>
     <title>Guitar • Posts by &#34;指弹&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2022-09-01T07:25:18.000Z</updated>
+    <updated>2022-10-03T07:01:59.000Z</updated>
     <category term="指弹" />
     <category term="入门" />
     <category term="1星" />
     <category term="2星" />
     <category term="指弹谱" />
+    <category term="3星" />
+    <entry>
+        <id>http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/</id>
+        <title>无题</title>
+        <link rel="alternate" href="http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/"/>
+        <content type="html">&lt;p&gt;指弹曲：无题&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;演奏视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL2F2NTAwNjI0NTI=&#34;&gt;https://www.bilibili.com/video/av50062452&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;教学视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVBiNDExNTdZOA==&#34;&gt;https://www.bilibili.com/video/BV1Pb41157Y8&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="指弹" />
+        <category term="3星" />
+        <updated>2022-10-03T07:01:59.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2022/09/01/%E6%9B%B4%E5%A4%9A%E6%8C%87%E5%BC%B9%E8%B0%B1%E5%9C%B0%E5%9D%80/</id>
         <title>更多指弹谱地址</title>

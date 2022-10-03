@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Guitar • All posts by \"3星\" tag",
+    "description": "play Guitar",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/",
+            "url": "http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/",
+            "title": "无题",
+            "date_published": "2022-10-03T07:01:59.000Z",
+            "content_html": "<p>指弹曲：无题</p>\n<h2 id=\"指弹谱\"><a class=\"anchor\" href=\"#指弹谱\">#</a> 指弹谱</h2>\n<p><img data-src=\"1.webp\" alt=\"1\"></p>\n<p><img data-src=\"2.webp\" alt=\"2\"></p>\n<p><img data-src=\"3.webp\" alt=\"3\"></p>\n<p><img data-src=\"4.webp\" alt=\"4\"></p>\n<p>演奏视频：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL2F2NTAwNjI0NTI=\">https://www.bilibili.com/video/av50062452</span></p>\n<p>教学视频：<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVBiNDExNTdZOA==\">https://www.bilibili.com/video/BV1Pb41157Y8</span></p>\n",
+            "tags": [
+                "指弹",
+                "3星"
+            ]
+        }
+    ]
+}
