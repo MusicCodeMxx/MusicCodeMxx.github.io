@@ -3,7 +3,7 @@
     <id>http://example.com</id>
     <title>Guitar • Posts by &#34;guitar&#34; category</title>
     <link href="http://example.com" />
-    <updated>2022-10-31T01:49:33.000Z</updated>
+    <updated>2022-10-31T02:37:36.000Z</updated>
     <category term="入门" />
     <category term="指弹" />
     <category term="1星" />
@@ -11,6 +11,49 @@
     <category term="2星" />
     <category term="指弹谱" />
     <category term="弹唱" />
+    <entry>
+        <id>http://example.com/2022/10/31/%E6%96%91%E9%A9%AC/</id>
+        <title>斑马</title>
+        <link rel="alternate" href="http://example.com/2022/10/31/%E6%96%91%E9%A9%AC/"/>
+        <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="弹唱" />
+        <updated>2022-10-31T02:37:36.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/10/31/%E8%91%A3%E5%B0%8F%E5%A7%90/</id>
+        <title>董小姐</title>
+        <link rel="alternate" href="http://example.com/2022/10/31/%E8%91%A3%E5%B0%8F%E5%A7%90/"/>
+        <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="弹唱" />
+        <updated>2022-10-31T02:37:20.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/</id>
+        <title>空心</title>
+        <link rel="alternate" href="http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/"/>
+        <content type="html">&lt;p&gt;背谱： C 大调&lt;/p&gt;
+&lt;p&gt;C D E F G A B C&lt;/p&gt;
+&lt;p&gt;Fmaj7   G  Em7  Am&lt;/p&gt;
+&lt;p&gt;4536&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="弹唱" />
+        <updated>2022-10-31T02:04:31.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</id>
         <title>平凡之路</title>
