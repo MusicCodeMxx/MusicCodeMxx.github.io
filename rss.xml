@@ -5,14 +5,31 @@
         <link>http://example.com</link>
         <description>play Guitar</description>
         <language>en</language>
-        <pubDate>Mon, 03 Oct 2022 15:01:59 +0800</pubDate>
-        <lastBuildDate>Mon, 03 Oct 2022 15:01:59 +0800</lastBuildDate>
-        <category>指弹</category>
+        <pubDate>Mon, 31 Oct 2022 09:49:33 +0800</pubDate>
+        <lastBuildDate>Mon, 31 Oct 2022 09:49:33 +0800</lastBuildDate>
         <category>入门</category>
+        <category>指弹</category>
         <category>1星</category>
+        <category>3星</category>
         <category>2星</category>
         <category>指弹谱</category>
-        <category>3星</category>
+        <category>弹唱</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</guid>
+            <title>平凡之路</title>
+            <link>http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</link>
+            <category>弹唱</category>
+            <pubDate>Mon, 31 Oct 2022 09:49:33 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;背谱：G 调&lt;/p&gt;
+&lt;p&gt;G  A  B  C  D  E  #F  G&lt;/p&gt;
+&lt;p&gt;Em  C  G  D&lt;/p&gt;
+&lt;p&gt;6  4 1 5   (结束是 6451)   D 是 G 的属和弦，结束需要 D--&amp;gt;&amp;gt; G&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/</guid>
             <title>无题</title>

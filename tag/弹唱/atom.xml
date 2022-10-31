@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Guitar • Posts by &#34;弹唱&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2022-10-31T01:49:33.000Z</updated>
+    <category term="入门" />
+    <category term="指弹" />
+    <category term="1星" />
+    <category term="3星" />
+    <category term="2星" />
+    <category term="指弹谱" />
+    <category term="弹唱" />
+    <entry>
+        <id>http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</id>
+        <title>平凡之路</title>
+        <link rel="alternate" href="http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/"/>
+        <content type="html">&lt;p&gt;背谱：G 调&lt;/p&gt;
+&lt;p&gt;G  A  B  C  D  E  #F  G&lt;/p&gt;
+&lt;p&gt;Em  C  G  D&lt;/p&gt;
+&lt;p&gt;6  4 1 5   (结束是 6451)   D 是 G 的属和弦，结束需要 D--&amp;gt;&amp;gt; G&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="弹唱" />
+        <updated>2022-10-31T01:49:33.000Z</updated>
+    </entry>
+</feed>

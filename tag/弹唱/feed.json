@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Guitar • All posts by \"弹唱\" tag",
+    "description": "play Guitar",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/",
+            "url": "http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/",
+            "title": "平凡之路",
+            "date_published": "2022-10-31T01:49:33.000Z",
+            "content_html": "<p>背谱：G 调</p>\n<p>G  A  B  C  D  E  #F  G</p>\n<p>Em  C  G  D</p>\n<p>6  4 1 5   (结束是 6451)   D 是 G 的属和弦，结束需要 D--&gt;&gt; G</p>\n<h2 id=\"弹唱谱\"><a class=\"anchor\" href=\"#弹唱谱\">#</a> 弹唱谱</h2>\n<p><img data-src=\"1.png\" alt=\"1\"></p>\n<p><img data-src=\"2.png\" alt=\"2\"></p>\n<p><img data-src=\"3.png\" alt=\"3\"></p>\n",
+            "tags": [
+                "弹唱"
+            ]
+        }
+    ]
+}
