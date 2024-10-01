@@ -10,10 +10,10 @@
         <category>入门</category>
         <category>指弹</category>
         <category>1星</category>
-        <category>3星</category>
-        <category>2星</category>
-        <category>指弹谱</category>
         <category>弹唱</category>
+        <category>2星</category>
+        <category>3星</category>
+        <category>指弹谱</category>
         <item>
             <guid isPermalink="true">http://example.com/2022/08/30/hello-world/</guid>
             <title>Hello World</title>

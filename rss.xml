@@ -5,30 +5,39 @@
         <link>http://example.com</link>
         <description>play Guitar</description>
         <language>en</language>
-        <pubDate>Tue, 01 Nov 2022 14:45:05 +0800</pubDate>
-        <lastBuildDate>Tue, 01 Nov 2022 14:45:05 +0800</lastBuildDate>
+        <pubDate>Tue, 15 Nov 2022 17:54:35 +0800</pubDate>
+        <lastBuildDate>Tue, 15 Nov 2022 17:54:35 +0800</lastBuildDate>
         <category>入门</category>
         <category>指弹</category>
         <category>1星</category>
-        <category>3星</category>
-        <category>2星</category>
-        <category>指弹谱</category>
         <category>弹唱</category>
+        <category>2星</category>
+        <category>3星</category>
+        <category>指弹谱</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/11/15/%E6%88%91%E8%AE%B0%E5%BE%97-%E8%B5%B5%E7%A3%8A/</guid>
+            <title>我记得-赵磊</title>
+            <link>http://example.com/2022/11/15/%E6%88%91%E8%AE%B0%E5%BE%97-%E8%B5%B5%E7%A3%8A/</link>
+            <pubDate>Tue, 15 Nov 2022 17:54:35 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2022/11/01/%E5%92%8C%E5%BC%A6%E8%BF%9B%E8%A1%8C456%E7%9A%84%E6%AD%8C%E6%9B%B2/</guid>
             <title>和弦进行456的歌曲</title>
             <link>http://example.com/2022/11/01/%E5%92%8C%E5%BC%A6%E8%BF%9B%E8%A1%8C456%E7%9A%84%E6%AD%8C%E6%9B%B2/</link>
             <category>弹唱</category>
             <pubDate>Tue, 01 Nov 2022 14:45:05 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;背谱：&#34;&gt;&lt;a href=&#34;#背谱：&#34; class=&#34;headerlink&#34; title=&#34;背谱：&#34;&gt;&lt;/a&gt;背谱：&lt;/h2&gt;&lt;p&gt;C调&lt;/p&gt;
-&lt;p&gt;C D E F G A B    456: F  G  Am &lt;/p&gt;
-&lt;p&gt;G调：&lt;/p&gt;
-&lt;p&gt;G A B C D E #F   456: C  D  E &lt;/p&gt;
-&lt;h2 id=&#34;歌曲：&#34;&gt;&lt;a href=&#34;#歌曲：&#34; class=&#34;headerlink&#34; title=&#34;歌曲：&#34;&gt;&lt;/a&gt;歌曲：&lt;/h2&gt;&lt;p&gt;杀死那个石家庄人： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMzg0OTAuaHRtbA==&#34;&gt;https://puduoduo123.com/38490.html&lt;/span&gt;   （全部456）&lt;/p&gt;
-&lt;p&gt;红色高跟鞋 ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL20uZmF4aW5nbS5jb20vdmlldy5waHA/YWlkPTc1MTAlRUYlQkMlODglRTUlODUlQTglRTklODMlQTg0NTYlRUYlQkMlODk=&#34;&gt;http://m.faxingm.com/view.php?aid=7510（全部456）&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;反方向的钟：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTczMjcuaHRtbA==&#34;&gt;https://puduoduo123.com/17327.html&lt;/span&gt; （高潮456）&lt;/p&gt;
-&lt;p&gt;一直很安静：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY2hhbmd3YW5nLmNvbS9waWMvMDUvNzQxNS5odG1s&#34;&gt;http://www.echangwang.com/pic/05/7415.html&lt;/span&gt; （高潮G调 456451）&lt;/p&gt;
-&lt;p&gt;大鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml0YXBhaS5jb20vMjAyMDE2OTkuaHRtbA==&#34;&gt;https://www.jitapai.com/20201699.html&lt;/span&gt; （456 部分456451）&lt;/p&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;背谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#背谱&#34;&gt;#&lt;/a&gt; 背谱：&lt;/h2&gt;
+&lt;p&gt;C 调&lt;/p&gt;
+&lt;p&gt;C D E F G A B    456: F  G  Am&lt;/p&gt;
+&lt;p&gt;G 调：&lt;/p&gt;
+&lt;p&gt;G A B C D E #F   456: C  D  E&lt;/p&gt;
+&lt;h2 id=&#34;歌曲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#歌曲&#34;&gt;#&lt;/a&gt; 歌曲：&lt;/h2&gt;
+&lt;p&gt;杀死那个石家庄人： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMzg0OTAuaHRtbA==&#34;&gt;https://puduoduo123.com/38490.html&lt;/span&gt;   （全部 456）&lt;/p&gt;
+&lt;p&gt;红色高跟鞋 ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL20uZmF4aW5nbS5jb20vdmlldy5waHA/YWlkPTc1MTAlRUYlQkMlODglRTUlODUlQTglRTklODMlQTg0NTYlRUYlQkMlODk=&#34;&gt;http://m.faxingm.com/view.php?aid=7510（全部 456）&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;反方向的钟：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTczMjcuaHRtbA==&#34;&gt;https://puduoduo123.com/17327.html&lt;/span&gt; （高潮 456）&lt;/p&gt;
+&lt;p&gt;一直很安静：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY2hhbmd3YW5nLmNvbS9waWMvMDUvNzQxNS5odG1s&#34;&gt;http://www.echangwang.com/pic/05/7415.html&lt;/span&gt; （高潮 G 调 456451）&lt;/p&gt;
+&lt;p&gt;大鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml0YXBhaS5jb20vMjAyMDE2OTkuaHRtbA==&#34;&gt;https://www.jitapai.com/20201699.html&lt;/span&gt; （456 部分 456451）&lt;/p&gt;
 &lt;p&gt;that girl :&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTc0ODEuaHRtbA==&#34;&gt;https://puduoduo123.com/17481.html&lt;/span&gt; (4565 /  4563)&lt;/p&gt;
  ]]></description>
         </item>
