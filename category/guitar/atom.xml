@@ -5,9 +5,9 @@
     <link href="http://example.com" />
     <updated>2022-10-31T08:54:34.000Z</updated>
     <category term="入门" />
+    <category term="弹唱" />
     <category term="指弹" />
     <category term="1星" />
-    <category term="弹唱" />
     <category term="2星" />
     <category term="3星" />
     <category term="指弹谱" />
@@ -15,13 +15,12 @@
         <id>http://example.com/2022/10/31/%E6%BC%82%E6%B4%8B%E8%BF%87%E6%B5%B7%E6%9D%A5%E7%9C%8B%E4%BD%A0/</id>
         <title>漂洋过海来看你</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E6%BC%82%E6%B4%8B%E8%BF%87%E6%B5%B7%E6%9D%A5%E7%9C%8B%E4%BD%A0/"/>
-        <content type="html">&lt;p&gt;背谱：C 调&lt;/p&gt;
-&lt;p&gt;C  D  E  F  G  A  B&lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱：C调&lt;/p&gt;
+&lt;p&gt;C  D  E  F  G  A  B  &lt;/p&gt;
 &lt;p&gt;1245  循环&lt;/p&gt;
 &lt;p&gt;6345126456  高潮&lt;/p&gt;
 &lt;p&gt;626454  结束&lt;/p&gt;
-&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a href=&#34;#弹唱谱&#34; class=&#34;headerlink&#34; title=&#34;弹唱谱&#34;&gt;&lt;/a&gt;弹唱谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -34,8 +33,7 @@
         <title>斑马</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E6%96%91%E9%A9%AC/"/>
         <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -47,8 +45,7 @@
         <title>董小姐</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E8%91%A3%E5%B0%8F%E5%A7%90/"/>
         <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -60,12 +57,11 @@
         <id>http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/</id>
         <title>空心</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/"/>
-        <content type="html">&lt;p&gt;背谱： C 大调&lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱： C大调&lt;/p&gt;
 &lt;p&gt;C D E F G A B C&lt;/p&gt;
 &lt;p&gt;Fmaj7   G  Em7  Am&lt;/p&gt;
 &lt;p&gt;4536&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -76,12 +72,11 @@
         <id>http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</id>
         <title>平凡之路</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/"/>
-        <content type="html">&lt;p&gt;背谱：G 调&lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱：G调&lt;/p&gt;
 &lt;p&gt;G  A  B  C  D  E  #F  G&lt;/p&gt;
-&lt;p&gt;Em  C  G  D&lt;/p&gt;
-&lt;p&gt;6  4 1 5   (结束是 6451)   D 是 G 的属和弦，结束需要 D--&amp;gt;&amp;gt; G&lt;/p&gt;
-&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Em  C  G  D  &lt;/p&gt;
+&lt;p&gt;6  4 1 5   (结束是 6451)   D 是G的属和弦，结束需要 D–&amp;gt;&amp;gt; G&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a href=&#34;#弹唱谱&#34; class=&#34;headerlink&#34; title=&#34;弹唱谱&#34;&gt;&lt;/a&gt;弹唱谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -93,8 +88,7 @@
         <title>无题</title>
         <link rel="alternate" href="http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/"/>
         <content type="html">&lt;p&gt;指弹曲：无题&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -110,7 +104,7 @@
         <title>更多指弹谱地址</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E6%9B%B4%E5%A4%9A%E6%8C%87%E5%BC%B9%E8%B0%B1%E5%9C%B0%E5%9D%80/"/>
         <content type="html">&lt;p&gt;搜集了许多指弹谱的地址&lt;/p&gt;
-&lt;p&gt;up： 老默 er&lt;/p&gt;
+&lt;p&gt;up： 老默er&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;指弹谱合集：https://space.bilibili.com/188519580/article
 &lt;/code&gt;&lt;/pre&gt;
 </content>
@@ -123,8 +117,7 @@
         <title>一直很安静</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/"/>
         <content type="html">&lt;p&gt;曲谱专栏【一直很安静】治愈系指弹&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -141,9 +134,8 @@
         <id>http://example.com/2022/09/01/%E6%8C%87%E5%BC%B9%E6%9B%B2%E8%B0%B1%E3%80%8A%E9%BB%84%E6%98%8F%E4%B9%8B%E6%97%B6%E3%80%8B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97OST/</id>
         <title>指弹曲谱《黄昏之时》你的名字OST</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E6%8C%87%E5%BC%B9%E6%9B%B2%E8%B0%B1%E3%80%8A%E9%BB%84%E6%98%8F%E4%B9%8B%E6%97%B6%E3%80%8B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97OST/"/>
-        <content type="html">&lt;p&gt;指弹曲：《黄昏之时》你的名字 OST&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;指弹曲：《黄昏之时》你的名字OST&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;演奏视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXhCNHkxNjc1Ug==&#34;&gt;https://www.bilibili.com/video/BV1xB4y1675R&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;教学视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxdWE0MTFON0xV&#34;&gt;www.bilibili.com/video/BV1ua411N7LU&lt;/span&gt;&lt;/p&gt;
@@ -157,8 +149,7 @@
         <title>少年的梦</title>
         <link rel="alternate" href="http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/"/>
         <content type="html">&lt;p&gt;指弹曲：少年的梦&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -170,9 +161,8 @@
         <id>http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/</id>
         <title>未闻花名</title>
         <link rel="alternate" href="http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/"/>
-        <content type="html">&lt;p&gt;已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫 —— 勿忘我&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫——勿忘我&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;6.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
