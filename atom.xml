@@ -3,14 +3,24 @@
     <id>http://example.com</id>
     <title>Guitar</title>
     <link href="http://example.com" />
-    <updated>2024-10-02T06:09:00.000Z</updated>
+    <updated>2024-10-03T06:26:22.000Z</updated>
     <category term="入门" />
-    <category term="弹唱" />
     <category term="指弹" />
     <category term="1星" />
+    <category term="弹唱" />
     <category term="2星" />
     <category term="3星" />
     <category term="指弹谱" />
+    <entry>
+        <id>http://example.com/2024/10/03/%E6%9A%96%E6%9A%96/</id>
+        <title>暖暖</title>
+        <link rel="alternate" href="http://example.com/2024/10/03/%E6%9A%96%E6%9A%96/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+</content>
+        <updated>2024-10-03T06:26:22.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/10/02/%E6%9D%80%E6%AD%BB%E9%82%A3%E4%B8%AA%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%BA%BA/</id>
         <title>杀死那个石家庄人</title>
@@ -47,7 +57,8 @@
         <id>http://example.com/2024/10/01/%E4%BD%A0%E5%B0%B1%E4%B8%8D%E8%A6%81%E6%83%B3%E8%B5%B7%E6%88%91/</id>
         <title>你就不要想起我</title>
         <link rel="alternate" href="http://example.com/2024/10/01/%E4%BD%A0%E5%B0%B1%E4%B8%8D%E8%A6%81%E6%83%B3%E8%B5%B7%E6%88%91/"/>
-        <content type="html">&lt;h1 id=&#34;弹唱谱&#34;&gt;&lt;a href=&#34;#弹唱谱&#34; class=&#34;headerlink&#34; title=&#34;弹唱谱&#34;&gt;&lt;/a&gt;弹唱谱&lt;/h1&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -69,15 +80,17 @@
         <id>http://example.com/2022/11/01/%E5%92%8C%E5%BC%A6%E8%BF%9B%E8%A1%8C456%E7%9A%84%E6%AD%8C%E6%9B%B2/</id>
         <title>和弦进行456的歌曲</title>
         <link rel="alternate" href="http://example.com/2022/11/01/%E5%92%8C%E5%BC%A6%E8%BF%9B%E8%A1%8C456%E7%9A%84%E6%AD%8C%E6%9B%B2/"/>
-        <content type="html">&lt;h2 id=&#34;背谱：&#34;&gt;&lt;a href=&#34;#背谱：&#34; class=&#34;headerlink&#34; title=&#34;背谱：&#34;&gt;&lt;/a&gt;背谱：&lt;/h2&gt;&lt;p&gt;C调&lt;/p&gt;
-&lt;p&gt;C D E F G A B    456: F  G  Am &lt;/p&gt;
-&lt;p&gt;G调：&lt;/p&gt;
-&lt;p&gt;G A B C D E #F   456: C  D  E &lt;/p&gt;
-&lt;h2 id=&#34;歌曲：&#34;&gt;&lt;a href=&#34;#歌曲：&#34; class=&#34;headerlink&#34; title=&#34;歌曲：&#34;&gt;&lt;/a&gt;歌曲：&lt;/h2&gt;&lt;p&gt;杀死那个石家庄人： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMzg0OTAuaHRtbA==&#34;&gt;https://puduoduo123.com/38490.html&lt;/span&gt;   （全部456）&lt;/p&gt;
-&lt;p&gt;红色高跟鞋 ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL20uZmF4aW5nbS5jb20vdmlldy5waHA/YWlkPTc1MTAlRUYlQkMlODglRTUlODUlQTglRTklODMlQTg0NTYlRUYlQkMlODk=&#34;&gt;http://m.faxingm.com/view.php?aid=7510（全部456）&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;反方向的钟：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTczMjcuaHRtbA==&#34;&gt;https://puduoduo123.com/17327.html&lt;/span&gt; （高潮456）&lt;/p&gt;
-&lt;p&gt;一直很安静：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY2hhbmd3YW5nLmNvbS9waWMvMDUvNzQxNS5odG1s&#34;&gt;http://www.echangwang.com/pic/05/7415.html&lt;/span&gt; （高潮G调 456451）&lt;/p&gt;
-&lt;p&gt;大鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml0YXBhaS5jb20vMjAyMDE2OTkuaHRtbA==&#34;&gt;https://www.jitapai.com/20201699.html&lt;/span&gt; （456 部分456451）&lt;/p&gt;
+        <content type="html">&lt;h2 id=&#34;背谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#背谱&#34;&gt;#&lt;/a&gt; 背谱：&lt;/h2&gt;
+&lt;p&gt;C 调&lt;/p&gt;
+&lt;p&gt;C D E F G A B    456: F  G  Am&lt;/p&gt;
+&lt;p&gt;G 调：&lt;/p&gt;
+&lt;p&gt;G A B C D E #F   456: C  D  E&lt;/p&gt;
+&lt;h2 id=&#34;歌曲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#歌曲&#34;&gt;#&lt;/a&gt; 歌曲：&lt;/h2&gt;
+&lt;p&gt;杀死那个石家庄人： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMzg0OTAuaHRtbA==&#34;&gt;https://puduoduo123.com/38490.html&lt;/span&gt;   （全部 456）&lt;/p&gt;
+&lt;p&gt;红色高跟鞋 ：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL20uZmF4aW5nbS5jb20vdmlldy5waHA/YWlkPTc1MTAlRUYlQkMlODglRTUlODUlQTglRTklODMlQTg0NTYlRUYlQkMlODk=&#34;&gt;http://m.faxingm.com/view.php?aid=7510（全部 456）&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;反方向的钟：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTczMjcuaHRtbA==&#34;&gt;https://puduoduo123.com/17327.html&lt;/span&gt; （高潮 456）&lt;/p&gt;
+&lt;p&gt;一直很安静：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5lY2hhbmd3YW5nLmNvbS9waWMvMDUvNzQxNS5odG1s&#34;&gt;http://www.echangwang.com/pic/05/7415.html&lt;/span&gt; （高潮 G 调 456451）&lt;/p&gt;
+&lt;p&gt;大鱼：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaml0YXBhaS5jb20vMjAyMDE2OTkuaHRtbA==&#34;&gt;https://www.jitapai.com/20201699.html&lt;/span&gt; （456 部分 456451）&lt;/p&gt;
 &lt;p&gt;that girl :&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWR1b2R1bzEyMy5jb20vMTc0ODEuaHRtbA==&#34;&gt;https://puduoduo123.com/17481.html&lt;/span&gt; (4565 /  4563)&lt;/p&gt;
 </content>
         <category term="弹唱" />
@@ -87,12 +100,13 @@
         <id>http://example.com/2022/10/31/%E6%BC%82%E6%B4%8B%E8%BF%87%E6%B5%B7%E6%9D%A5%E7%9C%8B%E4%BD%A0/</id>
         <title>漂洋过海来看你</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E6%BC%82%E6%B4%8B%E8%BF%87%E6%B5%B7%E6%9D%A5%E7%9C%8B%E4%BD%A0/"/>
-        <content type="html">&lt;p&gt;背谱：C调&lt;/p&gt;
-&lt;p&gt;C  D  E  F  G  A  B  &lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱：C 调&lt;/p&gt;
+&lt;p&gt;C  D  E  F  G  A  B&lt;/p&gt;
 &lt;p&gt;1245  循环&lt;/p&gt;
 &lt;p&gt;6345126456  高潮&lt;/p&gt;
 &lt;p&gt;626454  结束&lt;/p&gt;
-&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a href=&#34;#弹唱谱&#34; class=&#34;headerlink&#34; title=&#34;弹唱谱&#34;&gt;&lt;/a&gt;弹唱谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -113,7 +127,8 @@
         <title>斑马</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E6%96%91%E9%A9%AC/"/>
         <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -125,7 +140,8 @@
         <title>董小姐</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E8%91%A3%E5%B0%8F%E5%A7%90/"/>
         <content type="html">&lt;p&gt;背谱：&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -137,11 +153,12 @@
         <id>http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/</id>
         <title>空心</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E7%A9%BA%E5%BF%83/"/>
-        <content type="html">&lt;p&gt;背谱： C大调&lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱： C 大调&lt;/p&gt;
 &lt;p&gt;C D E F G A B C&lt;/p&gt;
 &lt;p&gt;Fmaj7   G  Em7  Am&lt;/p&gt;
 &lt;p&gt;4536&lt;/p&gt;
-&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a href=&#34;#吉他谱&#34; class=&#34;headerlink&#34; title=&#34;吉他谱&#34;&gt;&lt;/a&gt;吉他谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吉他谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#吉他谱&#34;&gt;#&lt;/a&gt; 吉他谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -152,11 +169,12 @@
         <id>http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/</id>
         <title>平凡之路</title>
         <link rel="alternate" href="http://example.com/2022/10/31/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF/"/>
-        <content type="html">&lt;p&gt;背谱：G调&lt;/p&gt;
+        <content type="html">&lt;p&gt;背谱：G 调&lt;/p&gt;
 &lt;p&gt;G  A  B  C  D  E  #F  G&lt;/p&gt;
-&lt;p&gt;Em  C  G  D  &lt;/p&gt;
-&lt;p&gt;6  4 1 5   (结束是 6451)   D 是G的属和弦，结束需要 D–&amp;gt;&amp;gt; G&lt;/p&gt;
-&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a href=&#34;#弹唱谱&#34; class=&#34;headerlink&#34; title=&#34;弹唱谱&#34;&gt;&lt;/a&gt;弹唱谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Em  C  G  D&lt;/p&gt;
+&lt;p&gt;6  4 1 5   (结束是 6451)   D 是 G 的属和弦，结束需要 D--&amp;gt;&amp;gt; G&lt;/p&gt;
+&lt;h2 id=&#34;弹唱谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#弹唱谱&#34;&gt;#&lt;/a&gt; 弹唱谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -168,7 +186,8 @@
         <title>无题</title>
         <link rel="alternate" href="http://example.com/2022/10/03/%E6%97%A0%E9%A2%98/"/>
         <content type="html">&lt;p&gt;指弹曲：无题&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -184,7 +203,7 @@
         <title>更多指弹谱地址</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E6%9B%B4%E5%A4%9A%E6%8C%87%E5%BC%B9%E8%B0%B1%E5%9C%B0%E5%9D%80/"/>
         <content type="html">&lt;p&gt;搜集了许多指弹谱的地址&lt;/p&gt;
-&lt;p&gt;up： 老默er&lt;/p&gt;
+&lt;p&gt;up： 老默 er&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;指弹谱合集：https://space.bilibili.com/188519580/article
 &lt;/code&gt;&lt;/pre&gt;
 </content>
@@ -197,7 +216,8 @@
         <title>一直很安静</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E4%B8%80%E7%9B%B4%E5%BE%88%E5%AE%89%E9%9D%99/"/>
         <content type="html">&lt;p&gt;曲谱专栏【一直很安静】治愈系指弹&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.webp&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;4.webp&#34; alt=&#34;4&#34;&gt;&lt;/p&gt;
@@ -214,8 +234,9 @@
         <id>http://example.com/2022/09/01/%E6%8C%87%E5%BC%B9%E6%9B%B2%E8%B0%B1%E3%80%8A%E9%BB%84%E6%98%8F%E4%B9%8B%E6%97%B6%E3%80%8B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97OST/</id>
         <title>指弹曲谱《黄昏之时》你的名字OST</title>
         <link rel="alternate" href="http://example.com/2022/09/01/%E6%8C%87%E5%BC%B9%E6%9B%B2%E8%B0%B1%E3%80%8A%E9%BB%84%E6%98%8F%E4%B9%8B%E6%97%B6%E3%80%8B%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97OST/"/>
-        <content type="html">&lt;p&gt;指弹曲：《黄昏之时》你的名字OST&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;指弹曲：《黄昏之时》你的名字 OST&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.webp&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.webp&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;演奏视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXhCNHkxNjc1Ug==&#34;&gt;https://www.bilibili.com/video/BV1xB4y1675R&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;教学视频：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5iaWxpYmlsaS5jb20vdmlkZW8vQlYxdWE0MTFON0xV&#34;&gt;www.bilibili.com/video/BV1ua411N7LU&lt;/span&gt;&lt;/p&gt;
@@ -229,7 +250,8 @@
         <title>少年的梦</title>
         <link rel="alternate" href="http://example.com/2022/08/31/%E5%B0%91%E5%B9%B4%E7%9A%84%E6%A2%A6/"/>
         <content type="html">&lt;p&gt;指弹曲：少年的梦&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 </content>
@@ -241,8 +263,9 @@
         <id>http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/</id>
         <title>未闻花名</title>
         <link rel="alternate" href="http://example.com/2022/08/31/%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D/"/>
-        <content type="html">&lt;p&gt;已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫——勿忘我&lt;/p&gt;
-&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a href=&#34;#指弹谱&#34; class=&#34;headerlink&#34; title=&#34;指弹谱&#34;&gt;&lt;/a&gt;指弹谱&lt;/h2&gt;&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;已知花意，未见其花，已见其花，未闻花名，再见其花，落泪千溟，未闻花名，但识花香，已知花名，花已不在。未闻花名，但识花香，再遇花时，泪已千行。 那朵花叫 —— 勿忘我&lt;/p&gt;
+&lt;h2 id=&#34;指弹谱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#指弹谱&#34;&gt;#&lt;/a&gt; 指弹谱&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;6.jpg&#34; alt=&#34;6&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
@@ -257,18 +280,15 @@
         <title>Hello World</title>
         <link rel="alternate" href="http://example.com/2022/08/30/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;$ hexo server
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;$ hexo generate
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;$ hexo deploy
-&lt;/code&gt;&lt;/pre&gt;
-</content>
+&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
         <category term="入门" />
         <updated>2022-08-30T14:57:26.887Z</updated>
     </entry>
