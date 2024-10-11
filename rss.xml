@@ -5,8 +5,8 @@
         <link>http://example.com</link>
         <description>play Guitar</description>
         <language>en</language>
-        <pubDate>Fri, 04 Oct 2024 22:37:05 +0800</pubDate>
-        <lastBuildDate>Fri, 04 Oct 2024 22:37:05 +0800</lastBuildDate>
+        <pubDate>Fri, 11 Oct 2024 21:04:20 +0800</pubDate>
+        <lastBuildDate>Fri, 11 Oct 2024 21:04:20 +0800</lastBuildDate>
         <category>入门</category>
         <category>指弹</category>
         <category>1星</category>
@@ -14,6 +14,25 @@
         <category>2星</category>
         <category>3星</category>
         <category>指弹谱</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/10/11/%E8%BF%9E%E5%A4%87%E8%83%8E%E9%83%BD%E4%B8%8D%E6%98%AF/</guid>
+            <title>连备胎都不是</title>
+            <link>http://example.com/2024/10/11/%E8%BF%9E%E5%A4%87%E8%83%8E%E9%83%BD%E4%B8%8D%E6%98%AF/</link>
+            <pubDate>Fri, 11 Oct 2024 21:04:20 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/10/11/april-Encounter-%E5%BE%88%E7%BE%8E%E5%91%B3/</guid>
+            <title>april-Encounter 很美味</title>
+            <link>http://example.com/2024/10/11/april-Encounter-%E5%BE%88%E7%BE%8E%E5%91%B3/</link>
+            <pubDate>Fri, 11 Oct 2024 20:44:23 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/10/04/%E7%AA%81%E7%84%B6%E5%A5%BD%E5%83%8F%E4%BD%A0/</guid>
             <title>突然好像你</title>
