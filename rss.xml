@@ -5,8 +5,8 @@
         <link>http://example.com</link>
         <description>play Guitar</description>
         <language>en</language>
-        <pubDate>Sat, 12 Oct 2024 15:57:49 +0800</pubDate>
-        <lastBuildDate>Sat, 12 Oct 2024 15:57:49 +0800</lastBuildDate>
+        <pubDate>Sat, 12 Oct 2024 22:32:21 +0800</pubDate>
+        <lastBuildDate>Sat, 12 Oct 2024 22:32:21 +0800</lastBuildDate>
         <category>入门</category>
         <category>指弹</category>
         <category>1星</category>
@@ -14,6 +14,16 @@
         <category>2星</category>
         <category>3星</category>
         <category>指弹谱</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/10/12/%E6%A4%BF/</guid>
+            <title>椿</title>
+            <link>http://example.com/2024/10/12/%E6%A4%BF/</link>
+            <pubDate>Sat, 12 Oct 2024 22:32:21 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/10/12/%E6%80%BB%E6%9C%89%E4%B8%80%E5%A4%A9%E4%BD%A0%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9/</guid>
             <title>总有一天你会出现在我身边</title>
